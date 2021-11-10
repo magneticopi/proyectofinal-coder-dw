@@ -111,7 +111,7 @@
                 
                 header .textos-header {
                     display: flex;
-                    height: 400px;
+                    height: 300px;
                     width: 100%;
                     align-items: center;
                     justify-content: center;
@@ -121,7 +121,7 @@
                 }
                 
                 .textos-header h1 {
-                    font-size: 50px;
+                    font-size: 40px;
                     color: #fff;
                     justify-content: center;
                     padding-top: 1rem;
