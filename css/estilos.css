@@ -124,6 +124,7 @@
                     font-size: 40px;
                     color: #fff;
                     justify-content: center;
+                    text-align: center;
                     padding-top: 1rem;
                     padding-bottom: 1rem;
                 }
@@ -132,6 +133,9 @@
                     font-size: 30px;
                     font-weight: 300;
                     color: #fff;
+                    text-align: center;
+                    justify-content: center;
+
                 }
                 
                 .wave {
